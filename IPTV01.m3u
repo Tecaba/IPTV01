@@ -3,9 +3,17 @@
 http://200.69.85.98:8000/udp/239.0.1.4:1234
 #EXTINF:-1,Claro Sports
 http://200.69.85.98:8000/udp/239.0.4.3:1234
+#EXTINF:-1,Claro Cinema
+http://131.196.194.2:8000/play/a09z/index.m3u8
 #EXTINF:-1,GOLPERU HD
 http://200.48.19.140:10021/play/a00b
 #EXTINF:-1,Movistar Plus
 http://181.176.173.180:51011/play/a08r/index.m3u8
 #EXTINF:-1,Movistar Deportes HD
 http://200.48.19.140:10021/play/a002
+#EXTINF:-1,DIRECTV SPORTS
+http://200.52.154.125:8000/play/a06p/index.m3u8
+#EXTINF:-1,DIRECTV SPORTS 2
+http://200.52.154.125:8000/play/a06o/index.m3u8
+#EXTINF:-1,MUNDIAL 2022
+http://181.176.148.142:8000/play/a009
