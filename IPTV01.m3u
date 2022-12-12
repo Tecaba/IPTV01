@@ -45,5 +45,21 @@ https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 http://200.69.85.98:8000/udp/239.0.1.12:1234
 #EXTINF:-1,WILLAX
 http://200.69.85.98:8000/udp/239.0.1.18:1234
-#EXTINF:-1,EXITOSA
-https://cu.onliv3.com/livevd1/user2.m3u8
+#EXTINF:-1,GOL TV
+http://200.69.85.98:8000/udp/239.0.0.11:1234
+#EXTINF:-1,Fox Sports 2
+http://200.69.85.98:8000/udp/239.0.0.9:1234
+#EXTINF:-1,Fox Sports 3
+http://200.69.85.98:8000/udp/239.0.0.10:1234
+#EXTINF:-1,ESPN 2 Latin
+http://200.69.85.98:8000/udp/239.0.0.8:1234
+#EXTINF:-1,ESPN
+http://200.69.85.98:8000/udp/239.0.0.7:1234
+#EXTINF:-1,ESPN 4
+http://200.69.85.98:8000/udp/239.0.1.1:1234
+#EXTINF:-1,ESPN 3
+http://200.69.85.98:8000/udp/239.0.2.6:1234
+#EXTINF:-1,ESPN 2
+http://200.69.85.98:8000/udp/239.0.5.4:1234
+#EXTINF:-1,ESPN CO
+http://200.69.85.98:8000/udp/239.0.3.10:1234
