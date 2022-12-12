@@ -3,5 +3,9 @@
 http://200.69.85.98:8000/udp/239.0.1.4:1234
 #EXTINF:-1,Claro Sports
 http://200.69.85.98:8000/udp/239.0.4.3:1234
-EXTINF:-1,Claro Musica
-http://45.5.119.202:8000/play/a04k/index.m3u8
+#EXTINF:-1,GOLPERU HD
+http://200.48.19.140:10021/play/a00b
+#EXTINF:-1,Movistar Plus
+http://181.176.173.180:51011/play/a08r/index.m3u8
+#EXTINF:-1,Movistar Deportes HD
+http://200.48.19.140:10021/play/a002
