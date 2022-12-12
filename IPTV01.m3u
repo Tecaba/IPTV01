@@ -63,3 +63,23 @@ http://200.69.85.98:8000/udp/239.0.2.6:1234
 http://200.69.85.98:8000/udp/239.0.5.4:1234
 #EXTINF:-1,ESPN CO
 http://200.69.85.98:8000/udp/239.0.3.10:1234
+#EXTINF:-1,Espn Extra
+http://200.69.85.98:8000/udp/239.0.6.10:1234
+#EXTINF:-1,Win
+http://200.69.85.98:8000/udp/239.0.2.19:1234
+#EXTINF:-1,TyC Sports
+http://190.216.105.66:6020/play/a08q/index.m3u8
+#EXTINF:-1,Tigo Sports HD
+http://200.52.154.125:8000/play/a032/index.m3u8
+#EXTINF:-1,TNT SPORTS HD
+http://190.216.105.66:6020/play/a0e8/index.m3u8
+#EXTINF:-1,TyC Sports
+http://186.33.168.140:7000/play/a0k7/index.m3u8
+#EXTINF:-1,FUTV HD CR
+http://177.234.254.38:8000/play/a01f/index.m3u8
+#EXTINF:-1,BEIN SPORT Ñ HD
+http://131.196.194.2:8000/play/a0h9/index.m3u8
+#EXTINF:-1,BEIN ESP
+http://200.52.154.125:8000/play/a06q/index.m3u8
+#EXTINF:-1,TUDN
+http://45.5.117.138:8005/play/a00f/index.m3u8
