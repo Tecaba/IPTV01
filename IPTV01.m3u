@@ -3,6 +3,8 @@
 http://200.69.85.98:8000/udp/239.0.1.4:1234
 #EXTINF:-1,Claro Sports
 http://200.69.85.98:8000/udp/239.0.4.3:1234
+#EXTINF:-1,Claromusic
+http://45.238.21.106:6688/play/a02h/index.m3u8
 #EXTINF:-1,Claro Cinema
 http://131.196.194.2:8000/play/a09z/index.m3u8
 #EXTINF:-1,GOLPERU HD
@@ -19,6 +21,8 @@ http://200.52.154.125:8000/play/a06o/index.m3u8
 http://181.176.148.142:8000/play/a009
 #EXTINF:-1,De Películas
 http://190.97.172.4:8000/play/a033/index.m3u8
+#EXTINF:-1,DISTRITO COMEDIA
+http://45.5.117.138:8005/play/a005/index.m3u8
 #EXTINF:-1,AmericaTV
 http://200.69.85.98:8000/udp/239.0.1.2:1234
 #EXTINF:-1,ATV
@@ -83,3 +87,23 @@ http://131.196.194.2:8000/play/a0h9/index.m3u8
 http://200.52.154.125:8000/play/a06q/index.m3u8
 #EXTINF:-1,TUDN
 http://45.5.117.138:8005/play/a00f/index.m3u8
+#EXTINF:-1,Disney Channel
+http://200.69.85.98:8000/udp/239.0.0.5:1234
+#EXTINF:-1,Nickelodeon
+http://200.69.85.98:8000/udp/239.0.4.12:1234
+#EXTINF:-1,Disney Jr
+http://200.69.85.98:8000/udp/239.0.5.3:1234
+#EXTINF:-1,Baby TV
+http://46.19.227.130:4500/play/a01v/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://45.238.21.106:6688/play/a01u/index.m3u8
+#EXTINF:-1,Cartoonito
+http://190.216.105.66:6020/play/a0aw/index.m3u8
+#EXTINF:-1,ZooMoo
+http://190.115.15.177:58003/play/a05l/index.m3u8
+#EXTINF:-1,Disney
+http://190.115.15.177:58003/play/a01r/index.m3u8
+#EXTINF:-1,Tooncast
+http://190.97.172.4:8000/play/a02y/index.m3u8
+#EXTINF:-1,Discovery Kids
+http://190.187.247.206:8000/play/a00o/index.m3u8
