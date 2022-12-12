@@ -23,10 +23,24 @@ http://190.97.172.4:8000/play/a033/index.m3u8
 http://200.69.85.98:8000/udp/239.0.1.2:1234
 #EXTINF:-1,ATV
 http://200.69.85.98:8000/udp/239.0.1.3:1234
+#EXTINF:-1,ATV SUR HD
+http://179.0.98.34:8000/play/a04x/index.m3u8
+#EXTINF:-1,ATV+ Noticias HD
+http://187.102.209.88:50000/play/a006/index.m3u8
+#EXTINF:-1,GLOBAL
+http://181.176.173.181:51011/play/a08v/index.m3u8
 #EXTINF:-1,Latina
 http://200.69.85.98:8000/udp/239.0.1.11:1234
 #EXTINF:-1,TV Peru
 http://200.69.85.98:8000/udp/239.0.1.17:1234
+#EXTINF:-1,RPP
+http://200.48.19.141:10021/play/a030
+#EXTINF:-1,Canal N
+http://186.5.31.251:8000/play/a09y/index.m3u8
+#EXTINF:-1,KARIBENA HD
+http://187.102.209.88:50000/play/a00g/index.m3u8
+#EXTINF:-1,TVCOSMOS PlAY 15.2
+https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 #EXTINF:-1,Panamericana TV
 http://200.69.85.98:8000/udp/239.0.1.12:1234
 #EXTINF:-1,WILLAX
