@@ -24,7 +24,7 @@ http://45.5.117.138:8005/play/a005/index.m3u8
 #EXTINF:-1,AmericaTV
 http://200.69.85.98:8000/udp/239.0.1.2:1234
 #EXTINF:-1,ATV HD
-http://200.106.124.248:8000/play/a0mi/index.m3u8
+https://list.iptvcat.com/my_list/s/f000ff59e8ae7eaa7a99205d9ded0604.m3u8
 #EXTINF:-1,ATV SUR HD
 http://179.0.98.34:8000/play/a04x/index.m3u8
 #EXTINF:-1,ATV+ Noticias HD
