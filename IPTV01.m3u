@@ -32,7 +32,7 @@ http://187.102.209.88:50000/play/a006/index.m3u8
 #EXTINF:-1,GLOBAL
 http://181.176.173.181:51011/play/a08v/index.m3u8
 #EXTINF:-1,Latina
-http://200.69.85.98:8000/udp/239.0.1.11:1234
+http://200.48.19.141:10021/play/a00a
 #EXTINF:-1,TV Peru
 http://200.69.85.98:8000/udp/239.0.1.17:1234
 #EXTINF:-1,RPP
