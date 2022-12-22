@@ -51,3 +51,5 @@ http://45.181.122.17:4000/play/a00p
 http://45.181.122.17:4000/play/a00h
 #EXTINF:-1,ESPN Extra HD
 http://45.181.122.17:4000/play/a04l
+#EXTINF:-1,ESPN 4 HD
+http://45.179.164.9:8000/play/a06e/index.m3u8
