@@ -31,3 +31,7 @@ http://186.5.31.251:8000/play/a09y/index.m3u8
 http://186.5.31.251:8000/play/a0a0/index.m3u8
 #EXTINF:-1,TUDN
 http://45.5.117.138:8005/play/a00f/index.m3u8
+#EXTINF:-1,Fox Sport 2
+http://45.5.117.138:8005/play/a00n/index.m3u8
+#EXTINF:-1,Fox Sport 3
+http://45.5.117.138:8005/play/a00o/index.m3u8
