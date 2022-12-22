@@ -35,3 +35,5 @@ http://45.5.117.138:8005/play/a00f/index.m3u8
 http://45.5.117.138:8005/play/a00n/index.m3u8
 #EXTINF:-1,Fox Sport 3
 http://45.5.117.138:8005/play/a00o/index.m3u8
+#EXTINF:-1,GOL TV
+http://45.238.21.106:6688/play/a04p/index.m3u8
