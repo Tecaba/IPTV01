@@ -9,8 +9,8 @@ http://190.234.164.206:9000/play/a08n/index.m3u8
 http://190.234.164.206:9000/play/a08o/index.m3u8
 #EXTINF:-1,106-709-09-ATV HD
 http://190.234.164.206:9000/play/a085/index.m3u8
-#EXTINF:-1,16 WILLAX HD
-http://190.234.164.206:9000/play/a088/index.m3u8
+#EXTINF:-1,GLOBAL
+http://179.43.94.187:8010/play/a07j
 #EXTINF:-1,23 KARIBENA HD
 http://190.234.164.206:9000/play/a08e/index.m3u8
 #EXTINF:-1,244-33-EXITOSA HD
