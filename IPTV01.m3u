@@ -7,8 +7,10 @@ http://138.185.15.149:20001/play/a05c/index.m3u8
 http://190.83.116.230:9010/play/a0b0/index.m3u8
 #EXTINF:-1,GOLPERU HD
 http://179.43.94.187:8010/play/a06x
-#EXTINF:-1,WILLAX
-http://138.185.15.148:20001/play/a03n/index.m3u8
+#EXTINF:-1,Movistar Deportes HD
+http://179.43.94.187:8010/play/a06q
+#EXTINF:-1,NACIONAL-WILLAX
+http://168.194.100.99:8000/play/a01q
 #EXTINF:-1,04 AMERICA SD
 http://190.234.164.206:9000/play/a07w/index.m3u8
 #EXTINF:-1,05 PANAMERICANA SD
