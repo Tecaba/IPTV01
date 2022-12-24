@@ -3,6 +3,10 @@
 http://138.185.15.149:20001/play/a054/index.m3u8
 #EXTINF:-1,Claro Sports
 http://138.185.15.149:20001/play/a05c/index.m3u8
+#EXTINF:-1,Claro Cinema
+http://190.83.116.230:9010/play/a0b0/index.m3u8
+#EXTINF:-1,GOLPERU HD
+http://200.24.141.2:4000/play/a0zd/index.m3u8
 #EXTINF:-1,WILLAX
 http://138.185.15.148:20001/play/a03n/index.m3u8
 #EXTINF:-1,04 AMERICA SD
@@ -31,9 +35,7 @@ http://190.234.164.206:9000/play/a08i/index.m3u8
 http://190.234.164.206:9000/play/a086/index.m3u8
 #EXTINF:-1,TV Peru
 http://190.217.110.170:9025/play/a02q/index.m3u8
-#EXTINF:-1,Bien Sports
-http://103.83.23.204:4000/play/a01a/index.m3u8
-#EXTINF:-1,VW:BIEN 1
-http://103.83.23.204:4000/play/a01e/index.m3u8
-#EXTINF:-1,VW:BIEN SPORTS 5
-http://103.83.23.204:4000/play/a02w/index.m3u8
+#EXTINF:-1,DE PELICULA SD
+http://200.24.141.2:4000/play/a1nd/index.m3u8
+#EXTINF:-1,Distrito Comedia
+http://200.24.141.2:4000/play/a1iu/index.m3u8
