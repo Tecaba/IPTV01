@@ -35,7 +35,7 @@ http://190.234.164.206:9000/play/a08j/index.m3u8
 http://190.234.164.206:9000/play/a08i/index.m3u8
 #EXTINF:-1,32-32-ATV + HD
 http://190.234.164.206:9000/play/a086/index.m3u8
-#EXTINF:-1,TV Peru
+5 Peru
 http://190.217.110.170:9025/play/a02q/index.m3u8
 #EXTINF:-1,DE PELICULA SD
 http://200.24.141.2:4000/play/a1nd/index.m3u8
