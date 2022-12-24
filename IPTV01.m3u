@@ -1,10 +1,16 @@
 #EXTM3U
+#EXTINF:-1,Canal Claro
+http://138.185.15.149:20001/play/a054/index.m3u8
+#EXTINF:-1,Claro Sports
+http://138.185.15.149:20001/play/a05c/index.m3u8
+#EXTINF:-1,WILLAX
+http://138.185.15.149:20001/play/a03n/index.m3u8
 #EXTINF:-1,04 AMERICA SD
 http://190.234.164.206:9000/play/a07w/index.m3u8
 #EXTINF:-1,05 PANAMERICANA SD
 http://190.234.164.206:9000/play/a07s/index.m3u8
 #EXTINF:-1,Latina HD
-http://138.186.20.102:9315/play/a03z/index.m3u8
+http://138.185.15.148:20001/play/a068/index.m3u8
 #EXTINF:-1,08 CANAL N HD
 http://190.234.164.206:9000/play/a08n/index.m3u8
 #EXTINF:-1,10 RPP HD
