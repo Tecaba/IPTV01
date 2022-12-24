@@ -152,3 +152,7 @@ http://200.24.141.2:4000/play/a1oq/index.m3u8
 http://200.24.141.2:4000/play/a1of/index.m3u8
 #EXTINF:-1,HTV
 http://200.229.147.76:4000/play/a05f/index.m3u8
+#EXTINF:-1,135 Karavana Urbano HD
+http://170.79.235.29:8000/play/135
+#EXTINF:-1,231 Fit HD
+http://170.79.235.29:8000/play/231
