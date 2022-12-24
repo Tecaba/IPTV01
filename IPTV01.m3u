@@ -69,3 +69,9 @@ http://200.24.141.2:4000/play/a0is/index.m3u8
 http://200.24.141.2:4000/play/a1p2/index.m3u8
 #EXTINF:-1,ESPN 4
 http://200.24.141.2:4000/play/a0aw/index.m3u8
+#EXTINF:-1,BEIN SPORT Ñ HD
+http://131.196.194.2:8000/play/a0h9/index.m3u8
+#EXTINF:-1,BEIN ESP
+http://200.52.154.125:8000/play/a06q/index.m3u8
+#EXTINF:-1,TUDN
+http://45.5.117.138:8005/play/a00f/index.m3u8
