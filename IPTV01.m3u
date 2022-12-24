@@ -33,3 +33,7 @@ http://190.234.164.206:9000/play/a086/index.m3u8
 http://190.217.110.170:9025/play/a02q/index.m3u8
 #EXTINF:-1,Bien Sports
 http://103.83.23.204:4000/play/a01a/index.m3u8
+#EXTINF:-1,VW:BIEN 1
+http://103.83.23.204:4000/play/a01e/index.m3u8
+#EXTINF:-1,VW:BIEN SPORTS 5
+http://103.83.23.204:4000/play/a02w/index.m3u8
