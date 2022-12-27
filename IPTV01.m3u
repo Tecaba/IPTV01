@@ -33,7 +33,7 @@ http://190.234.164.206:9000/play/a08d/index.m3u8
 http://190.234.164.206:9000/play/a08j/index.m3u8
 #EXTINF:-1,249-320-USMPTV HD
 http://190.234.164.206:9000/play/a08i/index.m3u8
-#EXTINF:-1,ATV
+#EXTINF:-1,ATVHD
 http://138.185.15.149:20001/play/a03s/index.m3u8
 #EXTINF:-1,TV PERU
 http://200.37.54.11:8000/play/a01n/index.m3u8
