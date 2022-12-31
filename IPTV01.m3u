@@ -81,3 +81,25 @@ http://190.60.39.17:5000/play/a05d/index.m3u8
 http://190.60.39.17:5000/play/a05v/index.m3u8
 #EXTINF:-1,Movistar Deportes HD
 http://187.102.208.109:50000/play/a01d/index.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://8.243.104.157:8083/play/a00g/index.m3u8
+#EXTINF:-1,Discovery Kids HD
+http://8.243.104.157:8083/play/a00w/index.m3u8
+#EXTINF:-1,Disney HD
+http://201.182.251.146:37584/play/a069/index.m3u8
+#EXTINF:-1,Disney Junior HD
+http://201.182.251.146:37584/play/a09s/index.m3u8
+#EXTINF:-1,Baby First
+http://200.6.254.70:8000/play/a042/index.m3u8
+#EXTINF:-1,Cartoonito
+http://200.6.254.70:8000/play/a02x/index.m3u8
+#EXTINF:-1,Nick Jr
+http://200.6.254.70:8000/play/a02w/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://200.6.254.70:8000/play/a057/index.m3u8
+#EXTINF:-1,Teen Nick HD
+http://200.6.254.70:8000/play/a03l/index.m3u8
+#EXTINF:-1,Tooncast
+http://200.6.254.70:8000/play/a04l/index.m3u8
+#EXTINF:-1,WARNER HD
+http://200.6.254.70:8000/play/a050/index.m3u8
