@@ -109,6 +109,8 @@ http://200.6.254.70:8000/play/a050/index.m3u8
 http://187.102.208.109:50000/play/a00m/index.m3u8
 #EXTINF:-1,Cine Latino
 http://186.151.74.214:8000/play/a05g/index.m3u8
+#EXTINF:-1,Distrito Comedia
+http://200.24.141.2:4000/play/a1iu/index.m3u8
 #EXTINF:-1,Pasiones HD
 http://200.6.254.70:8000/play/a05y/index.m3u8
 #EXTINF:-1,ESTRELLAS
@@ -151,5 +153,65 @@ http://45.176.193.20:7837/play/a06i
 http://45.176.193.20:7837/play/a06h
 #EXTINF:-1,Golden Edge HD
 http://45.176.193.20:7837/play/a02y
+#EXTINF:-1,Cinemax
+http://200.24.141.2:4000/play/a0a3/index.m3u8
+#EXTINF:-1,HBO
+http://200.24.141.2:4000/play/a0fd/index.m3u8
+#EXTINF:-1,HBO 2
+http://200.24.141.2:4000/play/a0p5/index.m3u8
+#EXTINF:-1,HBO Family
+http://200.24.141.2:4000/play/a0vj/index.m3u8
+#EXTINF:-1,HBO PlusHD
+http://200.24.141.2:4000/play/a1pt/index.m3u8
+#EXTINF:-1,HBO Signature HD
+http://200.24.141.2:4000/play/a1px/index.m3u8
+#EXTINF:-1,AE Mundo
+http://200.24.141.2:4000/play/a0hz/index.m3u8
+#EXTINF:-1,AMC
+http://200.24.141.2:4000/play/a1oj/index.m3u8
+#EXTINF:-1,AXN
+http://200.24.141.2:4000/play/a1oh/index.m3u8
+#EXTINF:-1,Animal Planet
+http://200.24.141.2:4000/play/a0dw/index.m3u8
+#EXTINF:-1,Azcorazon
+http://200.24.141.2:4000/play/a1o8/index.m3u8
+#EXTINF:-1,BBC World
+http://200.24.141.2:4000/play/a1ol/index.m3u8
+#EXTINF:-1,CHV
+http://200.24.141.2:4000/play/a0xv/index.m3u8
+#EXTINF:-1,CNN Espanol
+http://200.24.141.2:4000/play/a0xr/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://200.24.141.2:4000/play/a0dv/index.m3u8
+#EXTINF:-1,Discovery Home & Health
+http://200.24.141.2:4000/play/a1oz/index.m3u8
+#EXTINF:-1,E Entertainment
+http://200.24.141.2:4000/play/a0dy/index.m3u8
+#EXTINF:-1,History Channel
+http://200.24.141.2:4000/play/a0nw/index.m3u8
+#EXTINF:-1,History HD
+http://200.24.141.2:4000/play/a1oo/index.m3u8
+#EXTINF:-1,HomeandHealth
+http://200.24.141.2:4000/play/a0as/index.m3u8
+#EXTINF:-1,ID
+http://200.24.141.2:4000/play/a1p0/index.m3u8
+#EXTINF:-1,Nat Geo
+http://200.24.141.2:4000/play/a0nv/index.m3u8
+#EXTINF:-1,National Geographic
+http://200.24.141.2:4000/play/a1oc/index.m3u8
+#EXTINF:-1,MTV
+http://200.24.141.2:4000/play/a1p3/index.m3u8
+#EXTINF:-1,MTV 80s
+http://200.24.141.2:4000/play/a1og/index.m3u8
+#EXTINF:-1,MTV HD
+http://200.24.141.2:4000/play/a1oq/index.m3u8
+#EXTINF:-1,UNICABLE SD
+http://200.24.141.2:4000/play/a1n5/index.m3u8
+#EXTINF:-1,UNIMAS HD
+http://200.24.141.2:4000/play/a1n2/index.m3u8
+#EXTINF:-1,UNIVISION HD
+http://200.24.141.2:4000/play/a1n1/index.m3u8
+#EXTINF:-1,MTV Hits
+http://200.24.141.2:4000/play/a1of/index.m3u8
 
 
