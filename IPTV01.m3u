@@ -55,3 +55,29 @@ http://212.9.92.182:49000/play/a00z
 http://212.9.92.182:49000/play/a00h
 #EXTINF:-1,M+LaLigaTVHD
 http://212.9.92.182:49000/play/a01z
+#EXTINF:-1,GOLPERU HD
+http://8.243.104.157:8083/play/a03f/index.m3u8
+#EXTINF:-1,FOX Sports 2 HD
+http://8.243.104.157:8083/play/a00n/index.m3u8
+#EXTINF:-1,Fox Sports 1 HD
+http://8.243.104.157:8083/play/a01s/index.m3u8
+#EXTINF:-1,TNT SPORTS HD
+http://8.243.104.157:8083/play/a02f/index.m3u8
+#EXTINF:-1,Fox Sports 3 HD
+http://201.182.251.146:37584/play/a06d/index.m3u8
+#EXTINF:-1,Win Sports 1
+http://201.182.251.146:37584/play/a0a1/index.m3u8
+#EXTINF:-1,ESPN
+http://190.60.39.17:5000/play/a04r/index.m3u8
+#EXTINF:-1,ESPN 2
+http://190.60.39.17:5000/play/a03z/index.m3u8
+#EXTINF:-1,ESPN 2 Latin
+http://190.60.39.17:5000/play/a04q/index.m3u8
+#EXTINF:-1,ESPN 3
+http://190.60.39.17:5000/play/a07t/index.m3u8
+#EXTINF:-1,ESPN 4
+http://190.60.39.17:5000/play/a05d/index.m3u8
+#EXTINF:-1,ESPN CO
+http://190.60.39.17:5000/play/a05v/index.m3u8
+#EXTINF:-1,Movistar Deportes HD
+http://187.102.208.109:50000/play/a01d/index.m3u8
