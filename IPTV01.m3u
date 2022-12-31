@@ -103,3 +103,17 @@ http://200.6.254.70:8000/play/a03l/index.m3u8
 http://200.6.254.70:8000/play/a04l/index.m3u8
 #EXTINF:-1,WARNER HD
 http://200.6.254.70:8000/play/a050/index.m3u8
+#EXTINF:-1,Comedy Central HD
+http://187.102.208.109:50000/play/a00m/index.m3u8
+#EXTINF:-1,Cine Latino
+http://186.151.74.214:8000/play/a05g/index.m3u8
+#EXTINF:-1,CARACOL
+http://181.129.186.36:8093/play/a00w/index.m3u8
+#EXTINF:-1,ESTRELLAS
+http://181.129.186.36:8093/play/a018/index.m3u8
+#EXTINF:-1,RCN
+http://181.129.186.36:8093/play/a00x/index.m3u8
+#EXTINF:-1,Telenovelas
+http://181.129.186.36:8093/play/a00l/index.m3u8
+#EXTINF:-1,RCN Novelas
+http://177.93.46.167:8000/play/a01e
