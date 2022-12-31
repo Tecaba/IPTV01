@@ -81,14 +81,14 @@ http://190.60.39.17:5000/play/a05d/index.m3u8
 http://190.60.39.17:5000/play/a05v/index.m3u8
 #EXTINF:-1,Movistar Deportes HD
 http://187.102.208.109:50000/play/a01d/index.m3u8
-#EXTINF:-1,Cartoon Network HD
-http://8.243.104.157:8083/play/a00g/index.m3u8
-#EXTINF:-1,Discovery Kids HD
-http://8.243.104.157:8083/play/a00w/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://200.6.254.70:8000/play/a02v/index.m3u8
+#EXTINF:-1,Discovery Kids
+http://200.6.254.70:8000/play/a056/index.m3u8
 #EXTINF:-1,Disney HD
 http://201.182.251.146:37584/play/a069/index.m3u8
-#EXTINF:-1,Disney Junior HD
-http://201.182.251.146:37584/play/a09s/index.m3u8
+#EXTINF:-1,Disney JR
+http://200.6.254.70:8000/play/a02y/index.m3u8
 #EXTINF:-1,Baby First
 http://200.6.254.70:8000/play/a042/index.m3u8
 #EXTINF:-1,Cartoonito
@@ -107,13 +107,19 @@ http://200.6.254.70:8000/play/a050/index.m3u8
 http://187.102.208.109:50000/play/a00m/index.m3u8
 #EXTINF:-1,Cine Latino
 http://186.151.74.214:8000/play/a05g/index.m3u8
-#EXTINF:-1,CARACOL
-http://181.129.186.36:8093/play/a00w/index.m3u8
+#EXTINF:-1,Pasiones HD
+http://200.6.254.70:8000/play/a05y/index.m3u8
 #EXTINF:-1,ESTRELLAS
 http://181.129.186.36:8093/play/a018/index.m3u8
-#EXTINF:-1,RCN
-http://181.129.186.36:8093/play/a00x/index.m3u8
+#EXTINF:-1,RCN Novelas
+http://200.6.254.70:8000/play/a044/index.m3u8
+#EXTINF:-1,Telemundo
+http://200.6.254.70:8000/play/a030/index.m3u8
+#EXTINF:-1,Univision HD
+http://200.6.254.70:8000/play/a05z/index.m3u8
+#EXTINF:-1,Kanal D Drama HD
+http://187.102.208.109:50000/play/a016/index.m3u8
 #EXTINF:-1,Telenovelas
 http://181.129.186.36:8093/play/a00l/index.m3u8
-#EXTINF:-1,RCN Novelas
-http://177.93.46.167:8000/play/a01e
+#EXTINF:-1,CARACOL
+http://181.129.186.36:8093/play/a00w/index.m3u8
