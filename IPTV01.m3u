@@ -57,6 +57,8 @@ http://212.9.92.182:49000/play/a00h
 http://212.9.92.182:49000/play/a01z
 #EXTINF:-1,GOLPERU HD
 http://8.243.104.157:8083/play/a03f/index.m3u8
+#EXTINF:-1,Movistar Plus
+http://181.176.173.180:51011/play/a08r/index.m3u8
 #EXTINF:-1,FOX Sports 2 HD
 http://8.243.104.157:8083/play/a00n/index.m3u8
 #EXTINF:-1,Fox Sports 1 HD
