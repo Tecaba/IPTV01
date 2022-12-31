@@ -27,8 +27,8 @@ http://191.98.171.198:4000/play/a03s/index.m3u8
 http://45.5.119.202:54321/play/a01d/index.m3u8
 #EXTINF:-1,Claro Musica
 http://45.5.119.202:54321/play/a04k/index.m3u8
-#EXTINF:-1,DIRECTV
-http://8.243.104.157:8083/play/a029/index.m3u8
+#EXTINF:-1,BEIN SPORT Ñ HD
+http://131.196.194.2:8000/play/a0h9/index.m3u8
 #EXTINF:-1,TUDN
 http://45.182.21.251:33334/play/a07y/index.m3u8
 #EXTINF:-1,TUDN HD USA
